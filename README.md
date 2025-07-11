@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utsav Kushwaha</h1>
-<h3 align="center">A passionate full stack java developer from India</h3>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsav31703&label=Profile%20views&color=0e75b6&style=flat" alt="utsav31703" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [worked on a mini project on ecommerce](worked on a mini project on ecommerce)
 
-- ⚡ Fun fact **I'm a good comedian, and has a great sense of humour**
+- ⚡ Fun fact ** Had a great sense of humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
